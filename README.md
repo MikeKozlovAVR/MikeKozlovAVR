@@ -1,4 +1,4 @@
-Hello, my name is Mikhail Kozlov and I am an active engineer for automatic control systems.
+Hello, my name is Mikhail Kozlov and I am currently working as an engineer for automatic control systems.
 
 I work at an enterprise in the nuclear industry. In my main job, I am engaged in setting up and programming industrial logic controllers 
 (Siemens, Panasonic, ADAM, Owen, etc.), and related technological equipment. 
